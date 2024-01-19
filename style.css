@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#editor {
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    min-height: 200px;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#savedContent {
+    margin-top: 20px;
+}
+
